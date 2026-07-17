@@ -19,7 +19,7 @@ My studies at WGU have given me the ambition to put my knowledge to use in the r
 | Domain request monitoring and blocking | <a href="https://github.com/bholloway64/DNS-Sinkhole/tree/main">DNS Sinkhole</a> |
 | Vulnerability discovery and management | <a href="https://github.com/bholloway64/Nessus-Vulnerability-Management/tree/main">Nessus Vulnerability Management</a> |
 | Configuring IDS/IPS and writing rules to analyze and log network traffic | <a href="https://github.com/bholloway64/Configuring-Snort/tree/main">Configuring Snort</a> |
-| Case Management with TheHive                  |Planned|
+| Configuring Wazuh, writing and testing alerting rules, using TheHive for case management, and using Shuffle for automation | <a href="https://github.com/bholloway64/SOAR-Integrating-Wazuh-TheHive-and-Shuffle/tree/main">SOC Automation</a> |
 | Scripting and Automation for Threat Mitigation |Planned|
 
 ## Tools
@@ -43,6 +43,19 @@ My studies at WGU have given me the ambition to put my knowledge to use in the r
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-00B7EB?&style=for-the-badge&logo=wazuh&logoColor=white" />
+</div>
+
+### SOAR
+<div>
+    <img src="https://img.shields.io/badge/-Shuffle-FF8C00?&style=for-the-badge&logo=shuffle&logoColor=white" />
+    
+</div>
+
+### Case Management
+<div>
+    <img src="https://img.shields.io/badge/-TheHive-FFD700?&style=for-the-badge&logo=thehive&logoColor=black" />
+    
 </div>
 
 ### Testing
@@ -73,4 +86,6 @@ My studies at WGU have given me the ambition to put my knowledge to use in the r
 - <a href="https://github.com/bholloway64/Nessus-Vulnerability-Management/tree/main">Nessus Vulnerability Management</a>
 
 - <a href="https://github.com/bholloway64/Configuring-Snort/tree/main">Configuring Snort</a>
+
+- <a href="https://github.com/bholloway64/SOAR-Integrating-Wazuh-TheHive-and-Shuffle/tree/main">SOC Automation</a>
 
